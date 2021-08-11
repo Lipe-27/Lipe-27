@@ -8,4 +8,4 @@ Seja bem vindo(a)! Me chamo **Felipe Nonato**. Sou formado em Ciências Contábe
 
 :globe_with_meridians: ***LinkedIn***: https://www.linkedin.com/in/felipe-nonato-604577113/ 
 
-Muito obrigado pela sua visita! :relaxed:
+Thank you for your visit! :relaxed:
