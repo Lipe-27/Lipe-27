@@ -1,6 +1,6 @@
 # Olá!👋
 
-Seja bem vindo(a)! Me chamo **Felipe Nonato**. Sou formado em Ciências Contábeis mas com cursos de especialização em (TI) programação. Atualmente estudo na **Cubos Academy** e trabalho no **Grupo AWS Code**. Atuo como Developer Front-End e Web Design. Fique à vontade para  olhar meus **projetos**. 
+Welcome! My name is **Felipe Nonato**. I graduated in Accounting Sciences, but with specialization courses in programming (IT). I currently study at **Cubos Academy** and work at the **AWS Code Group**. I work as a **Front-End** and **Web Design** Developer. Feel free to view my designs.
 
 :love_letter: ***E-mail***: notfelipe2@hotmail.com
 
