@@ -3,7 +3,7 @@ Olá!👋
 </h1>
   
 <div align="center">
-Welcome! My name is Felipe Nonato. I graduated in Accounting Sciences, but with specialization courses in programming (IT). I currently study at Cubos Academy and work at the AWS Code Group. I work as a Front-End and Web Design Developer. Feel free to view my designs.
+Olá! Meu nome é Felipe Nonato. Sou graduado em Ciências Contábeis, mas com cursos de especialização em programação (TI) e Ux/Ui Design. Atualmente trabalho como Front-End. Sinta-se à vontade para ver meus projetos.
 </div>
 
 <div align="center">
