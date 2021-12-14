@@ -3,7 +3,7 @@ Olá!👋
 </h1>
   
 <div align="center">
-Olá! Meu nome é Felipe Nonato. Sou graduado em Ciências Contábeis, mas com cursos de especialização em programação (TI) e Ux/Ui Design. Atualmente trabalho como Front-End. Sinta-se à vontade para ver meus projetos.
+Olá! Meu nome é Felipe Nonato. Sou graduado em Ciências Contábeis, mas com cursos de especialização em programação (TI) e Ui/Ux Design. Atualmente trabalho como Front-End. Sinta-se à vontade para ver meus projetos.
 </div>
 
 <div align="center">
