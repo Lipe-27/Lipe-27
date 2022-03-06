@@ -30,6 +30,6 @@ Olá! Meu nome é Felipe Nonato. Sou desenvolvedor Front End com formação em F
   
 :love_letter: ***E-mail***: notfelipe2@hotmail.com
 
-:globe_with_meridians: ***LinkedIn***: https://www.linkedin.com/in/felipe-nonato-604577113/ 
+:globe_with_meridians: ***LinkedIn***: https://www.linkedin.com/in/felipe-carvalho-604577113/
 
 Thank you for your visit! :relaxed:
