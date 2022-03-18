@@ -27,9 +27,11 @@ Olá! Meu nome é Felipe Nonato. Sou desenvolvedor Front End com formação em F
 
  ##
   
+  <div align="center">
+  <a href="https://www.instagram.com/felipe.frontend/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-carvalho-604577113/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
   
 :love_letter: ***E-mail***: notfelipe2@hotmail.com
-
-:globe_with_meridians: ***LinkedIn***: https://www.linkedin.com/in/felipe-carvalho-604577113/
 
 Thank you for your visit! :relaxed:
