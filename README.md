@@ -28,4 +28,4 @@
   
 :love_letter: ***E-mail***: notfelipe2@hotmail.com
 
-Thank you for your visit! :relaxed:
+Obrigado pela visita! :relaxed:
