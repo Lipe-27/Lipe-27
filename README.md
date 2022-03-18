@@ -1,6 +1,4 @@
-<h1 align="center">
-Olá!👋
-</h1>
+## Olá, eu sou o Felipe Nonato mas pode me chamar de Felps, desenvolvedor FrontEnd.  
   
 <div align="center">
 Olá! Meu nome é Felipe Nonato. Sou desenvolvedor Front End com formação em Full Stack pela Cubos Academy. Minhas principais caracteristicas são a criatividade e a constância em que desenvolvo meu trabalho e estudos. Sinta-se à vontade para ver meus projetos.
