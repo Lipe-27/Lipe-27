@@ -31,6 +31,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=postgres" />
   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=heroku" />
+  <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=mongodb" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   </div>
 
