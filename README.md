@@ -39,6 +39,6 @@
   <a href="https://www.linkedin.com/in/felipe-nonato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
-:love_letter: ***E-mail***: felipe.frontend@gmail.com
+:love_letter: ***E-mail***: felipenfrontend@gmail.com
 
 Obrigado pela visita! :relaxed:
